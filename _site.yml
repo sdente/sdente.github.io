@@ -1,7 +1,7 @@
 name: "Xaysackda Vilaysouk RMarkdown"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "X. Vilaysouk"                             # CHANGE HERE 
+  title: "S.M.R. Dente"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
