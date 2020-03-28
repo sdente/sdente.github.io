@@ -7,10 +7,11 @@ knitr::include_graphics('./img/xvil.jpg')
 ```
 
 <div align="center">
-Xaysackda VILAYSOUK (PhD) | Senior Researcher </br>
+Sébastien M.R. Dente (PhD) | Senior Researcher </br>
 A: College of Science and Engineering, [Ritsumeikan University](http://ritsumei.ac.jp) </br>
 1-1-1 Noji-Higashi, Kusatsu, Shiga 525-8577 Japan </br>
-E: xaysackd@fc.ritsumei.ac.jp </br>
-E: xaysackda.vls@gmail.com </br>
+E: sdente@fc.ritsumei.ac.jp </br>
+E: sebdente@yahoo.fr </br>
+E: sdente1401@gmail.com </br>
 W: http://www.ritsumei.ac.jp/se/rv/hashimoto/index_e.html
 </div>

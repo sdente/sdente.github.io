@@ -9,11 +9,6 @@ title: "Home"
 knitr::include_graphics('./img/banner.png')
 ```
 
-
-```{r, out.width='100%', fig.align='center', echo=FALSE}
-knitr::include_graphics('./img/MFALAOS.png')
-```
-
 ```{r, out.width='100%', fig.align='center', echo=FALSE}
 knitr::include_graphics('./img/Slide1.JPG')
 ```

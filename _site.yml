@@ -1,4 +1,4 @@
-name: "Xaysackda Vilaysouk RMarkdown"                                # CHANGE HERE 
+name: "Sébastien M.R. Dente RMarkdown"                                # CHANGE HERE 
 output_dir: "."
 navbar:
   title: "S.M.R. Dente"                             # CHANGE HERE 
@@ -13,7 +13,7 @@ navbar:
     - text: "Research Topics"
       icon: fa-book
       href: research.html
-    - text: "R Lessons"
+    - text: "Teaching"
       icon: fa-chalkboard
       href: RLessons.html
     - text: "About"
@@ -22,7 +22,10 @@ navbar:
   right:
     - text: "Google Scholar"
       icon: fa-graduation-cap   
-      href: https://scholar.google.co.jp/citations?hl=en&user=uFI9dkMAAAAJ      # CHANGE HERE 
+      href: https://scholar.google.com/citations?user=CPBapq4AAAAJ&hl=en      # CHANGE HERE
+    - text: "Research gate"
+      icon: fa-researchgate
+      href: https://www.researchgate.net/profile/Sebastien_Dente2
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/xvilaysouk      # CHANGE HERE 

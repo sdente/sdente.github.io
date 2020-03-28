@@ -1,5 +1,5 @@
 ---
-title: "Xaysackda's CV and Publications"
+title: "Sébastien Dente's CV and Publications"
 ---
 
 ```{r, out.width='25%', fig.align='center', echo=FALSE}
@@ -13,7 +13,7 @@ img {
 
 
 <div align="center">
-Xaysackda VILAYSOUK (PhD) | Senior Researcher </br>
+Sébastien M.R. Dente VILAYSOUK (PhD) | Senior Researcher </br>
 A: College of Science and Engineering, [Ritsumeikan University](http://ritsumei.ac.jp) </br>
 <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>	
 </div>
@@ -22,13 +22,23 @@ A: College of Science and Engineering, [Ritsumeikan University](http://ritsumei.
 
 # **Education**
 
-+ **Ph.D in Systems Innovation** from Graduate School of Engineering/The University of Tokyo, Tokyo, Japan  04/2016 – 03/2019
-+ **M.Sc in Environmental and Technology** from Sirindhorn International Institute of Technology (SIIT)/Thammasat University, Pathum Thani, Thailand  10/2012 - 01/2015
-+ **B.Eng in Environmental Engineering** from Faculty of Engineering/National University of Laos, Vientiane, Lao PDR   10/2007 – 08/2012
++ **Ph.D in Sustainable Development** from Graduate School of Engineering/The University of Troyes, Troyes, France and Faculty of technology, policy and management (TPM)/ TU delft  09/2009 – 09/2013 
+
++ **M.Sc in Industrial Ecology** from Norwegian University of Science and Technology, Trondheim, Norway and Ecole Centrale de Nantes, Nantes, France  09/2006 - 06/2008
++ **B.Eng in Engineering** from Ecole centrale de Nantes   09/2004 – 06/2006
++ **Preparatory school** from Lycée Louis le Grand, Paris, France.09/2001-06/2004
 
 # **Employment**
 
-- 06/2019 ~ Now | Senior Researcher, Ritsumeikan University, Shiga, Japan
+- 06/2017 ~ Now | Senior Researcher, Ritsumeikan University, Shiga, Japan
+- 06/2015 - 06/2017 | Assistant Researcher, Ritsumeikan University, Shiga, Japan
+- 12/2013 - 12/2014 | JSPS Researcher, Ritsumeikan University,Shiga, Japan
+- 09/2009 - 09/2012 | Phd candidate and Environmental analyst at itnovem
+
+# **Teaching**
+- 06/2017 ~ Now | Introducion class on material flow analyis at Ritsumeikan University, Shiga, Japan.
+- 12/2014 - 06/2017 | French teacher at Decouverte, Hyogo, Japan.
+- 01/2008-06/2008  Student assistant of class TEP4220 Energy and Environmental Consequences at NTNU, Norway. (http://www.ivt.ntnu.no/ept/fag/tep4220/innhold/TEP4220_08_syllabus.pdf)
 
 # __Publications__ 
 #### Journals Articles
