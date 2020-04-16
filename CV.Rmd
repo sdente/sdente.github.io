@@ -13,7 +13,7 @@ img {
 
 
 <div align="center">
-Sébastien M.R. Dente VILAYSOUK (PhD) | Senior Researcher </br>
+Sébastien M.R. DENTE (PhD) | Senior Researcher </br>
 A: College of Science and Engineering, [Ritsumeikan University](http://ritsumei.ac.jp) </br>
 <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>	
 </div>
@@ -41,11 +41,16 @@ A: College of Science and Engineering, [Ritsumeikan University](http://ritsumei.
 - 01/2008-06/2008  Student assistant of class TEP4220 Energy and Environmental Consequences at NTNU, Norway. (http://www.ivt.ntnu.no/ept/fag/tep4220/innhold/TEP4220_08_syllabus.pdf)
 
 # __Publications__ 
-#### Journals Articles
-1. __**Xaysackda Vilaysouk**__, Heinz Schandl, Shinsuke Murakami: A comprehensive material flow account for Lao PDR to inform environmental and sustainability policy. **Journal of Industrial Ecology**, 2019 [DOI: /doi.org/10.1111/jiec.12764](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.12764) [Download <i class="fas fa-file-pdf"></i>](./pdf/20180209_private_sharing_Comprehensive MFA for Lao PDR to Inform Environmental and Sustainability Policy.pdf)
-2. __**Xaysackda Vilaysouk**__, Heinz Schandl, Shinsuke Murakami: Improving the knowledge base on material flow analysis for Asian developing countries: A case study of Lao PDR. **Resources Conservation and Recycling** 12/2017; 127:179-189., [DOI:10.1016/j.resconrec.2017.09.006](https://www.sciencedirect.com/science/article/pii/S0921344917302847) [Download <i class="fas fa-file-pdf"></i>](./pdf/20170831_private-sharing_Improving the knowledge base on MFA for Asian developing countries A case study of Lao PDR.pdf)
-3. **Xaysackda Vilaysouk**, Sandhya Babel: Benefits of Improved Municipal Solid Waste Management on Greenhouse gas Reduction in Luangprabang, Laos. **Environmental Technology** 03/2017; 38(13):1-40., [DOI:10.1080/09593330.2017.1301562](https://iahr.tandfonline.com/doi/abs/10.1080/09593330.2017.1301562) [Download <i class="fas fa-file-pdf"></i>](./pdf/Accepted manuscript_xaysackda_EnvTech.pdf)
-4. Sandhya Babel, **Xaysackda Vilaysouk**: Greenhouse gas emissions from municipal solid waste management in Vientiane, Lao PDR. **Waste Management & Research** 11/2015; 34(1)., [DOI:10.1177/0734242X15615425](https://journals.sagepub.com/doi/abs/10.1177/0734242X15615425) [Download <i class="fas fa-file-pdf"></i>](https://www.researchgate.net/profile/Xaysackda_Vilaysouk2/publication/284728288_Greenhouse_gas_emissions_from_municipal_solid_waste_management_in_Vientiane_Lao_PDR/links/59b0e55daca2728472cf2720/Greenhouse-gas-emissions-from-municipal-solid-waste-management-in-Vientiane-Lao-PDR.pdf)
+#### Journal Articles
+#### **2020**
+
++ __**S.M.R. Dente**__, C. Kayo, C. Aoki-Suzuki, D. Tanaka, and S. Hashimoto: Life cycle environmental impact assessment of biomass materials in Japan, **Journal of Cleaner Production**, Vol.257,12038875 (2020.6) (in English)  (https://www.sciencedirect.com/science/article/pii/S0959652620304352?via%3Dihub) #[Download <i class="fas #fa-file-pdf"></i>](./pdf/20180209_private_#sharing_Comprehensive MFA for Lao PDR to #Inform Environmental and Sustainability #Policy.pdf)
++ A.N. Azimi,__**S.M.R. Dente**__, and S. Hashimoto: Social life-cycle assessment of household waste management system in Kabul City, **Sustainability** (2020.4) (in English).
+
+#### **2019**
+
++ C. Kayo, --**S.M.R. Dente**--, C. Aoki-Suzuki, D. Tanaka, and S. Hashimoto: Environmental impact assessment of wood use in Japan through 2050 using Material Flow Analysis and Life Cycle Assessment,**Journal of Industrial Ecology**, Vol.23, No.3, p.635-648 (2019.6) (in English)(https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.12766) 
++ --**S.M.R Dente**--, C, Aoki-Suzuki, D. Tanaka, S. Murakami and S. Hashimoto: Effects of a new supply chain decomposition framework on the material life cycle greenhouse gas emissions -  the Japanese case, **Resources, Conservation and Recycling**, Vol.143, p.273-281 (2019.4) (in English) (https://www.sciencedirect.com/science/article/abs/pii/S0921344918303604?via%3Dihub)
 
 #### Conference Proceedings 
 
