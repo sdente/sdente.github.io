@@ -4,9 +4,13 @@ title: "Research Topic"
 
 ### The Current Research Topic ###
 
-* Material/Stock Flow Anlysis
+* Material/Stock Flow Analysis
 * Circular Economy
 * Urban Mining
+* Eco-efficiency and resource productivity indicators
+* Transportation and logistics
+* Sustainability assessment (Life cycle analysis, life cycle costing, social life cycle assessment)
+* Functional economy and product service systems
 * Innovations for Sustainable Resource Management 
 
 <dvi>

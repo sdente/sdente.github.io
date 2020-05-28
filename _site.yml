@@ -15,7 +15,7 @@ navbar:
       href: research.html
     - text: "Teaching"
       icon: fa-chalkboard
-      href: RLessons.html
+      href: index.html
     - text: "About"
       icon: fa-at 
       href: about.html

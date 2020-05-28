@@ -3,7 +3,7 @@ title: "About me"
 ---
 
 ```{r, out.width='40%', fig.align='center', echo=FALSE}
-knitr::include_graphics('./img/xvil.jpg')
+knitr::include_graphics('./img/profile - 1.png')
 ```
 
 <div align="center">
@@ -15,3 +15,8 @@ E: sebdente@yahoo.fr </br>
 E: sdente1401@gmail.com </br>
 W: http://www.ritsumei.ac.jp/se/rv/hashimoto/index_e.html
 </div>
+
+```{r}
+
+```
+
